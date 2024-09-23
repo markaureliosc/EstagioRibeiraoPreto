@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String args[]) {
-    int F [] = new int [300];
+    int F [] = new int [100];
     
     int teste = 13;
     int v = 0;
